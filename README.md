@@ -8,5 +8,11 @@ Para mais detalhes clique [aqui](https://github.com/gustavoramos82/analise-e-mod
 
 ## Modelagem
 
+### Modelagem Inicial
+
+Para mais detalhes, clique [aqui](https://github.com/gustavoramos82/analise-e-modelagem-das-a-es-magalu/blob/main/Modelagem%20Inicial.md)
+
+### Aplicando Modelos de Redes Neurais
+
 🚧 Em Construção 🚧
 
